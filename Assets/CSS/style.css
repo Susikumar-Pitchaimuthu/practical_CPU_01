@@ -1,0 +1,114 @@
+
+
+header {
+    padding-top: 20px;
+    font-family:Barlow Condensed;
+    font-weight: 400;
+}
+
+.div-container {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+
+}
+.header-first-div {
+    margin-left: 60px;
+}
+ header a {
+    text-decoration: none;
+}
+.nav-link {
+    display: flex;
+    padding-top: 10px;
+    gap: 2rem;
+    margin-right: 250px;
+}
+.nav-button {
+    background-color:hsl(255deg 43% 28%);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    
+
+}
+
+
+section {
+    padding-top: 90px;
+    padding-left: 100px;
+    font-family: Barlow;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+.section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sectoion-top-div {
+    padding-top: 40px;
+    
+}
+.section-top {
+    margin-right: 100px;
+}
+p {
+    padding-top: 25px;
+}
+.section-link-button {
+    
+    background-color:hsl(255deg 43% 28%);
+    color: white;
+    padding: 8px 25px;
+    border-radius: 20px;
+    
+}
+.section-top-sentence {
+    font-weight:700;
+    font-size: 40px;
+    color: hsl(255deg 43% 28%);
+    padding-top: 25px;
+}
+.section-div-last {
+    padding-top: 15px;
+}
+
+.email-search {
+    padding: 15px 25px;
+    border-radius: 5px;
+    border:grey 1px solid;
+}
+
+
+.section-image {
+    height: 72%;
+    width: 58%;
+    
+}
+.section-a {
+    color: white;
+}
+.section-button {
+    background-color:hsl(255deg 43% 28%);
+    color: white;
+    padding: 15px 25px;
+    border-radius: 5px;
+}
+.image-div {
+    margin-left: 150px;
+}
+.last-image {
+    margin-left:50px;
+}
+footer {
+    padding-left: 100px;
+    font-family: Barlow;
+    font-weight: 400;
+}
+
+.fimage {
+    margin-left: 9px;
+}
